@@ -40,7 +40,7 @@ Partial Class Form1
         Me.TxttoSend.Location = New System.Drawing.Point(15, 14)
         Me.TxttoSend.Multiline = True
         Me.TxttoSend.Name = "TxttoSend"
-        Me.TxttoSend.Size = New System.Drawing.Size(130, 60)
+        Me.TxttoSend.Size = New System.Drawing.Size(130, 75)
         Me.TxttoSend.TabIndex = 1
         '
         'Form1
